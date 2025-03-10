@@ -40,15 +40,19 @@ function App() {
       <section id="projects" className="section">
         <h2>Projects</h2>
         <div className="project">
-          <h3>Project One: Mobile Fitness Tracker</h3>
+          <h3>Bladder Diary App</h3>
           <p>
-            A cross-platform mobile application designed to track and analyze user fitness activities.
+          Developed a user-friendly mobile application (React Native) for ConnectUrCare to help users log, monitor, and track bladder health. Implemented core functionalities including daily logging, intuitive UI, data visualization, and secure local storage. Built with a modular design, allowing future developers to extend functionality easily. Created collaboratively as part of a Software Engineering Project at Mohawk College.
           </p>
+          <p>Tech Stack: React Native, JavaScript, Expo, Git, UI/UX Design.</p>
         </div>
         <div className="project">
-          <h3>Project Two: E-commerce Mobile App</h3>
+          <h3>Coding Challenge Hub</h3>
           <p>
-            An intuitive mobile application offering a seamless shopping experience with secure payment integration.
+          Built a web-based platform designed to improve programming skills through coding challenges and peer-reviewed feedback. Key features include challenge searching, solution sharing, and a classroom management system for instructors to review code submissions and facilitate peer feedback. Integrated Git repositories, enabling users to learn essential version control skills. The project supports Python and allows customizable grading scripts.
+          </p>
+          <p>
+          Technologies Used: React, Python, Git, REST APIs, Relational Databases.
           </p>
         </div>
       </section>
